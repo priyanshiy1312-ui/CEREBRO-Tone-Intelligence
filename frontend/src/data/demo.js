@@ -1,0 +1,8 @@
+// SYNTHETIC demo conversations (clearly separate from user data)
+export const DEMOS = {
+ "escalating_then_deescalating": "[10:30] Priya: Hey, did you get a chance to look at the new design?\n[10:31] Rahul: Yes, I did. It's okay.\n[10:32] Priya: I think we should change the navigation, though.\n[10:33] Rahul: Fine. Whatever you think is best.\n[10:34] Priya: That's not what I meant. I wanted your opinion.\n[10:35] Rahul: Of course, because apparently my ideas are never good enough.\n[10:36] Priya: That's not what I said! You never listen to what I say.\n[10:37] Rahul: Wow, you always do this. I am sick of being blamed for everything.\n[10:38] Priya: This is ridiculous. I'm tired of arguing about the same thing.\n[10:39] Rahul: Okay. I'm sorry, I was frustrated about the deadline.\n[10:40] Priya: Thanks for saying that. I'm sorry too. Let's go through it together.\n[10:41] Rahul: Sure, that works. Thanks for being patient.",
+ "friendly": "Asha: Good morning! Ready for the trip?\nKabir: Yes! So excited, thanks for planning everything.\nAsha: Of course, happy to help. I love this plan!\nKabir: Great, see you at the station.",
+ "sarcasm": "Dev: The build failed again.\nMira: Oh great, another brilliant deploy. Love that for us.\nDev: I fixed it already.\nMira: Wow, totally amazing work as usual.",
+ "passive_aggressive": "Neha: Can you send the report by today?\nSam: Sure, no worries. I guess I'll just drop everything else.\nNeha: If it's a problem, tell me.\nSam: Don't worry about it. It's fine.",
+ "disagreement": "Ravi: I think we should use Postgres.\nLena: I'd prefer MongoDB, the schema keeps changing.\nRavi: Fair point, but joins matter for our reports.\nLena: True. Let's list pros and cons and decide tomorrow."
+}
